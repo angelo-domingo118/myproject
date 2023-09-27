@@ -8,3 +8,7 @@ hr{
     margin-right: auto;
     width: 110%;
   }
+
+body {
+    background-color: aliceblue;
+}
